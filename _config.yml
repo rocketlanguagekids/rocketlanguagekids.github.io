@@ -4,7 +4,7 @@
 title: Rocket Language Kids Club
 
 # Short description of your site
-description: The web home of the Rocket Language Kids Club, a Vancouver-based language learning after school program started at Norma Rose Point School in 2020
+description: The web home of the Rocket Language Kids Club, a Vancouver-based language-learning after school club started at Norma Rose Point School in 2020
 
 # --- Local development options ---
 # If your website is hosted locally rather than on GitHub, then you need to uncomment the next two parameters to set the url and baseurl
@@ -20,11 +20,11 @@ description: The web home of the Rocket Language Kids Club, a Vancouver-based la
 
 # List of links in the navigation bar
 navbar-links:
-  About Me: "aboutme"
+  About Us: "aboutus"
   Resources:
-    - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
-    - Learn markdown: "http://www.markdowntutorial.com/"
-  Author's home: "http://deanattali.com"
+    - Application Form: "application-form.pdf"
+    - Registration Form: "registration-form.pdf"
+#  Author's home: "http://deanattali.com"
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
@@ -38,15 +38,16 @@ avatar: "/img/avatar-icon.png"
 
 # Personalize the colors in your website. Colour values can be any valid CSS colour
 
-navbar-col: "#00C3EE"
-navbar-text-col: "#404040"
+navbar-col: "#3FA9E0"
+navbar-text-col: "#DDDDDD"
+navbar-link-col: "#DDDDDD"
 navbar-children-col: "#F5F5F5"
 page-col: "#FFFFFF"
 link-col: "#008AFF"
 hover-col: "#0085A1"
-footer-col: "#C5F2FC"
-footer-text-col: "#777777"
-footer-link-col: "#404040"
+footer-col: "#0064C2"
+footer-text-col: "#DDDDDD"
+footer-link-col: "#F7770C"
 
 # Alternatively, the navbar, footer, and page background can be set to use background images
 # instead of colour
