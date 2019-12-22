@@ -27,7 +27,7 @@ Children enrolled in grades between K-7 inclusive.  Mandarin language experience
 
 2.     If your child is a heritage learner or even speaks little to no Mandarin: Children, particularly at the K-2 age range, are remarkably plastic – as we parents see daily! – and in a full immersion environment (with native speakers and encouraged by supervision to converse in Mandarin) can pick up the spoken language naturally and quickly.  Also, English and Mandarin are arguably the two most important languages for children to be exposed to and learn today in order to be best prepared for the future.
 
-If you are interested in learning more or want to enroll your child, please write to us at [mailto:rocket.language.kids@gmail.com](rocket.language.kids@gmail.com).
+If you are interested in learning more or want to enroll your child, please write to us at [rocket.language.kids@gmail.com](mailto:rocket.language.kids@gmail.com).
 
 <!--
 <div class="posts-list">
