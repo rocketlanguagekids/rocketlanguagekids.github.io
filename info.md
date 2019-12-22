@@ -4,7 +4,7 @@ title: Information
 subtitle: The Why, Where, and When of Rocket Language Kids Club
 ---
 
-Rocket Language Kids Club is an immersive, play-based after-school Mandarian-language immersion club. The club meets daily from 3:30pm to 5:30pm and is run by paid, professional, adult, Mandarin-speaking teachers.  The only strict "rule" is that the play and communication to and between the children take place in Mandarin.  
+Rocket Language Kids Club is an immersive, play-based after-school Mandarian-language immersion club. The club meets daily from 3:00pm to 5:30pm and is run by paid, professional, adult, Mandarin-speaking teachers.  The only strict "rule" is that the play and communication to and between the children take place in Mandarin.  
 
 Rocket Language Kids Club rents space from Norma Rose Point School and is managed professionally.  To whit, Rocket Language Kids Club is a BC non-profit society, carries $5 million in general liability insurance, ensures that its Mandarin-speaking staff has up-to-date CPR training (and more), and has built a small team of dedicated parents who help administer the program ensuring its continuation into the future.  
 
