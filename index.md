@@ -11,11 +11,11 @@ use-site-title: true
 
 ### When
 
-MTWF 3:00pm - 5:30pm except days in which our rented classrooms are not available, including [VSB stipulated ProD and Vacation days](https://www.vsb.bc.ca/Calendars/Documents/sbfile/190918/Compact_Calendar_2019-2020_revised.pdf).  A detailed calendar is available for club members.    
+MTWF 3:00pm - 5:30pm except [VSB stipulated ProD days and statutory holidays](https://www.vsb.bc.ca/Calendars/Documents/sbfile/190918/Compact_Calendar_2019-2020_revised.pdf) and Norma Rose Point School early dismissal days.  
 
 ### How Much
 
-$500 per month, 4 days per week or  $250 per month, 2 days per week.
+$500 per month (4 days per week) or $250 per month (2 days per week).
 
 ### Where
 
@@ -23,7 +23,7 @@ $500 per month, 4 days per week or  $250 per month, 2 days per week.
 
 ### Who
 
-Children enrolled in grades between K-7 inclusive.  Mandarin language foundation is required for at least 80% of the total club membership.
+Children enrolled in grades between K-7 inclusive.  Mandarin language foundation is required for at least 80% of the total club participants.
 
 ### Why
 
