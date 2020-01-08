@@ -22,6 +22,7 @@ description: The web home of the Rocket Language Kids Club, a Vancouver-based la
 navbar-links:
   About Us: "aboutus"
   Info: "info"
+  Teachers: "teachers"
   Resources:
     - Web Application Form: "https://docs.google.com/forms/d/e/1FAIpQLSdKRo9s-DOI5k4pcwn3Gtlr3MxOvnTCzDySyE-zLOe-ZfSY-g/viewform?usp=sf_link"
     - PDF Application Form: "Rocket-Language-Kids-Club-Application-Form-2020.pdf"
