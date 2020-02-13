@@ -11,7 +11,7 @@ use-site-title: true
 
 ### When
 
-MTWF 3:00pm - 5:30pm except [VSB stipulated ProD days and statutory holidays](https://www.vsb.bc.ca/Calendars/Documents/sbfile/190918/Compact_Calendar_2019-2020_revised.pdf) and Norma Rose Point School early dismissal days.  
+MTWF 3:00pm - 5:30pm except [VSB stipulated ProD days and statutory holidays](https://www.vsb.bc.ca/Calendars/Documents/sbfile/190918/Compact_Calendar_2019-2020_revised.pdf) and Norma Rose Point School early dismissal days.  Each session starts with 30 minutes of outdoor playtime (to allow offsite kids to arrive), heading indoors to Room D215 by 3:30pm. 
 
 ### How Much
 
